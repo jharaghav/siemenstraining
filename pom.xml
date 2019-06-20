@@ -21,14 +21,14 @@
 	<distributionManagement>
 		<repository>
 			<id>siemenshosted</id>
-			<url>http://localhost:8081/repository/siemenshosted/</url>
+			<url>https://example:8443/repository/siemenshosted/</url>
 		</repository>
 			</distributionManagement>
 	<!-- this section is for downloading -->
 	<repositories>
 		<repository>
 			<id>siemensintrarepo</id>
-			<url>http://localhost:8081/repository/siemensintrarepo/</url>
+			<url>https://example:8443/repository/siemensintrarepo/</url>
 		</repository>
 	</repositories>
 
